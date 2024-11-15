@@ -1,5 +1,6 @@
 # strava_hide_velotaff
-I got tired of getting spammed in my feed by velotaff / commuter that post their commute on my feed, so I blocked them
+I got tired of getting spammed in my feed by velotaff / commuter that post their commute without hidding them, so I hide them.
+The alternative was to unfollow them but ugh.... once in a while they post stuff I want to see
 
 
 My current setup on chrome is
